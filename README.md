@@ -4,8 +4,8 @@
 
 <h2> Social Media </h2>
   <p align="center">
-    <a href="https://br.linkedin.com/in/isaac-martins-55a885284"><img src="https://img.icons8.com/external-those-icons-flat-those-icons/96/external-LinkedIn-Logo-social-media-those-icons-flat-those-icons.png"></a>
-    <a href="https://www.instagram.com/isaacbymartins_?igsh=ZmV0dGMzczRuY3Bl"><img src="https://img.icons8.com/3d-fluency/94/instagram-new.png"></a>
+    <a href="https://br.linkedin.com/in/isaac-martins-55a885284"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+    <a href="https://www.instagram.com/isaacbymartins_?igsh=ZmV0dGMzczRuY3Bl"><img src="https://skillicons.dev/icons?i=instagram"></a>
   </p>
 <!--
 **DevZank/DevZank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
