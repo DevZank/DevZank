@@ -1,6 +1,6 @@
 <img align="center" style="margin-bottom:100px" width=100% src="my header.jpg" />
 
-<p> Oi! Sou o Isaac Martins, um entusiasta da programação em busca de desafios emocionantes no mundo da tecnologia. Atualmente, estou mergulhando nos estudos de Programação Web do Instituto Proa. </p>
+<p> Oi! Sou Isaac Martins, um entusiasta da programação em busca de desafios emocionantes no mundo da tecnologia. Atualmente, estou mergulhando nos estudos de Programação Web do Instituto Proa. </p>
 
 ## Tecnologias Favoritas:
 
