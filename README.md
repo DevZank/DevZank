@@ -1,6 +1,6 @@
 <img align="center" style="margin-bottom:100px" width=100% src="my header.jpg" />
 
-<p> Oi! Sou Isaac Martins, um entusiasta da programação em busca de desafios emocionantes no mundo da tecnologia. Atualmente, estou mergulhando nos estudos de Programação Web do Instituto Proa. </p>
+<p> Olá, me chamo Isaac Martins e atualmente iniciei a faculdade de Analise e Desenvolvimento de Sistemas na UNASP, e acabei de finalizar o curso PROPROFISSÃO do Instituto Proa, nele aprendi e aprimorei meu conhecimento em Diversas Tecnologias como, ASP.NET, Javascript, React.Js, Figma e outras tecnologias, além de ter desenvolvido soft skills como Comunicação, Trabalho em Equipe e outras Habilidades Comportamentais fundamentais para o meu desenvolvimento para o mercado de trabalho. </p>
 
 ---
 
