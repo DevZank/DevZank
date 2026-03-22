@@ -1,7 +1,5 @@
 <img align="center" style="margin-bottom:100px" width=100% src="my header.jpg" />
 
-<p> Olá, me chamo Isaac Martins e atualmente iniciei a faculdade de Analise e Desenvolvimento de Sistemas na UNASP, e acabei de finalizar o curso PROPROFISSÃO do Instituto Proa, nele aprendi e aprimorei meu conhecimento em Diversas Tecnologias como, ASP.NET, Javascript, React.Js, Figma e outras tecnologias, além de ter desenvolvido soft skills como Comunicação, Trabalho em Equipe e outras Habilidades Comportamentais fundamentais para o meu desenvolvimento para o mercado de trabalho. </p>
-
 ---
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
