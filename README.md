@@ -73,7 +73,7 @@
 
 <div align="center">
   <br />
-  <p>Para conhecer melhor minha experiência profissional, formação e certificações, visite meu [LinkedIn](https://www.linkedin.com/in/isaacmjsilva/).</p>
+  <p>Para conhecer melhor minha experiência profissional, formação e certificações, visite meu LinkedIn (https://www.linkedin.com/in/isaacmjsilva/)</p>
 </div>
 
 
