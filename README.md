@@ -5,7 +5,7 @@
 <hr>
 
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F7F7F7&center=true&vCenter=true&width=435&lines=Olá, eu sou DevZank;Seja+bem-vindo+ao+meu+perfil!" alt="Mensagem de apresentação" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&duration=3000&pause=500&color=F7F7F7&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C%20eu%20sou%20DevZank!%3BSeja%20bem-vindo%20ao%20meu%20perfil!" alt="Mensagem de apresentação" />
   </p>
 
   <img src="https://i.pinimg.com/originals/2a/97/20/2a972054847bc3f0412083ac13871873.gif" height="140" alt="Animação decorativa" />
@@ -71,9 +71,10 @@
 
 <br />
 
-Para conhecer melhor minha experiência profissional, formação e certificações, visite meu [LinkedIn](https://www.linkedin.com/in/iuricode/).
+Para conhecer melhor minha experiência profissional, formação e certificações, visite meu [LinkedIn](https://www.linkedin.com/in/isaacmjsilva/).
 
 <div align="center">
   <br />
   <sub>Obrigado pela visita! 🚀</sub>
 </div>
+
